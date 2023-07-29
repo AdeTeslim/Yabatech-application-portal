@@ -1,2 +1,2 @@
 # Yabatech-application-portal
-Repo for the latest yabatech portal
+Login page for Yabatech Application Portal
